@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+statsmodels
+scanpy
+anndata
+GEOparse
+gseapy
+gprofiler-official
+mygene
+rpy2
+scrublet
+requests
+openpyxl

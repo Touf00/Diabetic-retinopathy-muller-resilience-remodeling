@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or analysis archive, please cite the Zenodo release."
+title: "Cross-species stress-testing of an early Müller resilience program in diabetic retinopathy: reproducibility code and frozen analysis outputs"
+type: software
+authors:
+  - family-names: "Tawfik"
+    given-names: "Mohamed"
+version: "1.0.0"
+date-released: "2026-09-29"
+repository-code: "https://github.com/Touf00/Diabetic-retinopathy-muller-resilience-remodeling"
+keywords:
+  - diabetic retinopathy
+  - Müller glia
+  - retina
+  - single-cell RNA sequencing
+  - transcriptomics
+  - cross-species analysis
+  - reproducibility
